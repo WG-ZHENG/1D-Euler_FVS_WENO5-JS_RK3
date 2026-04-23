@@ -2,7 +2,7 @@ A simple 1d-Euler equation solver.
 
 case: Sod shock tube
 
-time advancing: 3-order Runge-Kutta
+time advancing: 3-step Runge-Kutta
 
 flux vector splitting: Steger-Warming
 
